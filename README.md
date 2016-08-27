@@ -23,6 +23,8 @@ swift指南针的实现
 如果有BUG请留言.
 同时欢迎喜欢一起开发小项目的朋友.
 
+注意:该项目需要在真机上运行才能实现指南针效果
+
 罗盘配图:
 
 ![image](https://github.com/zhao95/compass/blob/master/CompassSwift/CompassSwift/Assets.xcassets/bg_compasspointer.imageset/bg_compasspointer.png)
